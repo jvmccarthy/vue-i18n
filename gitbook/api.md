@@ -54,7 +54,7 @@
 
 - **Usage:**
 
-  Assign a customer message formatter.
+  Assign a custom message formatter.
 
   ```javascript
   Vue.config.i18nFormatter = function(string, ...arguments) {
